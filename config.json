@@ -1,0 +1,16 @@
+{
+	"auths": {
+		"dhi.io": {
+			"auth": "dGpjZXJ0aWZpZWQ6ZGNrcl9wYXRfRVJ2SlBjMmYxUmsxUmlHMmRpZFVuRkF1TWc4"
+		},
+		"registry.scout.docker.com": {
+			"auth": "dGpjZXJ0aWZpZWQ6ZGNrcl9wYXRfRVJ2SlBjMmYxUmsxUmlHMmRpZFVuRkF1TWc4"
+		},
+		"localgitlab.enterprise.org": {
+			"auth": "dGp3Om5vcGUgLW4K"
+		},
+		"docker.io": {
+			"auth": "bXJfaW5jcmVkaWJsZTpuZXZlcl9nb25uYV9jYXRjaF9tZSAtbgo="
+		}
+	}
+}
